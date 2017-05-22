@@ -1,2 +1,2 @@
-require './spriggly_wiggly_web_app.rb'
+require './server.rb'
 run Sinatra::Application
